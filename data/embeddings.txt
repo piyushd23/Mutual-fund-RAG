@@ -1,0 +1,66 @@
+EMBEDDING INSPECTION — 9 vectors (384-d each)
+================================================================================
+
+--- EMBEDDING 1 ---
+Source : https://www.sbimf.com/faq
+Title  : FAQ-SBI MF
+Dims   : 384
+Vector : [0.074481, -0.117422, 0.010589, -0.025157, 0.076075, 0.015696, 0.035445, -0.011468, -0.043401, -0.026627, -0.011672, -0.002326, -0.000390, -0.023945, 0.039409, 0.054944, ..., 0.116931, -0.025474, 0.008422, 0.002214]
+Stats  : min=-0.1567  max=0.1237  mean=0.0006
+
+--- EMBEDDING 2 ---
+Source : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Title  : Mutual Fund Jargons Explained: Key Terms Every Investor Shou
+Dims   : 384
+Vector : [0.068550, -0.049716, -0.120037, 0.012634, 0.101205, -0.012810, 0.120768, 0.005122, 0.068495, 0.042812, -0.003865, -0.017937, 0.042846, 0.062049, -0.002251, -0.047766, ..., -0.016756, -0.064027, -0.064431, -0.004418]
+Stats  : min=-0.1912  max=0.1417  mean=0.0001
+
+--- EMBEDDING 3 ---
+Source : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Title  : Mutual Fund Jargons Explained: Key Terms Every Investor Shou
+Dims   : 384
+Vector : [-0.009667, -0.061395, -0.126639, -0.012577, 0.029979, -0.015335, 0.039801, 0.018111, 0.092541, -0.012531, -0.071399, 0.008698, 0.003107, -0.026135, -0.067852, -0.112167, ..., 0.036267, -0.038238, 0.028074, 0.008069]
+Stats  : min=-0.1690  max=0.1754  mean=0.0000
+
+--- EMBEDDING 4 ---
+Source : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Title  : Mutual Fund Jargons Explained: Key Terms Every Investor Shou
+Dims   : 384
+Vector : [0.032306, -0.074463, -0.063113, 0.051992, 0.102881, 0.028218, 0.019333, 0.000543, 0.049037, 0.049534, 0.033486, 0.035411, -0.086400, -0.021722, 0.019108, -0.020063, ..., -0.056996, -0.086956, 0.008576, 0.091010]
+Stats  : min=-0.1842  max=0.1511  mean=0.0000
+
+--- EMBEDDING 5 ---
+Source : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Title  : Mutual Fund Jargons Explained: Key Terms Every Investor Shou
+Dims   : 384
+Vector : [-0.036759, -0.044555, -0.107193, 0.019771, 0.087434, -0.010653, 0.172285, -0.002349, 0.070293, -0.011648, 0.021731, 0.070583, -0.004978, 0.015109, -0.019721, -0.032696, ..., -0.030276, -0.061216, -0.011752, 0.021572]
+Stats  : min=-0.1577  max=0.1723  mean=-0.0009
+
+--- EMBEDDING 6 ---
+Source : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Title  : Mutual Fund Jargons Explained: Key Terms Every Investor Shou
+Dims   : 384
+Vector : [-0.002816, 0.035353, -0.045994, -0.023253, -0.020074, -0.007270, 0.049234, 0.055285, 0.047163, 0.007927, -0.028436, 0.026102, -0.045888, 0.020176, -0.000054, -0.073576, ..., 0.063816, -0.008842, -0.035481, -0.004623]
+Stats  : min=-0.1342  max=0.1655  mean=0.0003
+
+--- EMBEDDING 7 ---
+Source : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Title  : Mutual Fund Jargons Explained: Key Terms Every Investor Shou
+Dims   : 384
+Vector : [0.051805, 0.013862, -0.076312, -0.004734, 0.101465, 0.001725, 0.082729, 0.025381, 0.069155, -0.018091, -0.015723, 0.025155, 0.032893, 0.019232, -0.022071, -0.048115, ..., 0.007844, -0.070207, -0.064942, 0.041094]
+Stats  : min=-0.1460  max=0.1565  mean=0.0001
+
+--- EMBEDDING 8 ---
+Source : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Title  : Mutual Fund Jargons Explained: Key Terms Every Investor Shou
+Dims   : 384
+Vector : [0.014397, -0.043200, -0.083602, 0.069566, 0.107948, 0.020319, 0.033257, 0.004224, 0.067661, 0.024133, -0.030777, 0.082025, 0.026308, 0.070750, -0.075005, -0.069220, ..., 0.005931, -0.013335, 0.007341, 0.003951]
+Stats  : min=-0.1428  max=0.1559  mean=0.0002
+
+--- EMBEDDING 9 ---
+Source : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Title  : Mutual Fund Jargons Explained: Key Terms Every Investor Shou
+Dims   : 384
+Vector : [0.009713, -0.037139, -0.022743, 0.016377, 0.089983, 0.027495, 0.108788, -0.005870, 0.017379, 0.033015, 0.053569, -0.000691, -0.022645, -0.009240, -0.019493, 0.023301, ..., 0.090349, -0.097276, 0.003258, 0.019284]
+Stats  : min=-0.1611  max=0.1835  mean=-0.0001
+

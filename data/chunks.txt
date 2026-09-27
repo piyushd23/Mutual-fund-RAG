@@ -1,0 +1,179 @@
+CHUNK INSPECTION — 9 chunks from 2 sample URLs
+================================================================================
+
+--- CHUNK 1 ---
+Source URL   : https://www.sbimf.com/faq
+Doc Title    : FAQ-SBI MF
+Page No      : None
+Fetched Date : 2026-09-27
+Chunk Index  : 0
+Text (190 chars):
+FAQ-SBI MF
+Home
+FAQ
+Frequently asked questions
+Search
+Loading...
+Message Sent!
+Go Back
+Success
+Failure
+Message Sent!
+Go Back
+X
+NEW LAUNCH
+KNOW MORE
+SIF LAUNCH
+NEW LAUNCH
+KNOW MORE
+SIF LAUNCH
+
+--- CHUNK 2 ---
+Source URL   : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Doc Title    : Mutual Fund Jargons Explained: Key Terms Every Investor Should Know | SBI Mutual Fund
+Page No      : None
+Fetched Date : 2026-09-27
+Chunk Index  : 0
+Text (1861 chars):
+Mutual Fund Jargons Explained: Key Terms Every Investor Should Know | SBI Mutual Fund
+Loading...
+Home
+Mutual Fund Jargons Simplified
+Mutual Fund Jargons Simplified
+Published
+7th October 2021
+Assets Under Management (AUM)
+AUM or assets under management refers to the recent / updated cumulative market value of investments managed by a
+mutual fund
+or any investment firm.
+Asset Management Company
+AMC or
+Asset Management Company
+is the Investment Manager of the Mutual Fund that manages the pool of investor money on behalf of the investors. An AMC carries out all purchase and sale of securities in the portfolio of various Mutual Fund schemes launched by the Mutual Fund.
+Net Asset Value (NAV)
+The NAV or the
+net asset value
+is the total asset value per unit of the mutual fund after deducting all r
+... [truncated, 1061 more chars]
+
+--- CHUNK 3 ---
+Source URL   : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Doc Title    : Mutual Fund Jargons Explained: Key Terms Every Investor Should Know | SBI Mutual Fund
+Page No      : None
+Fetched Date : 2026-09-27
+Chunk Index  : 1
+Text (2102 chars):
+ a standard known as the benchmark
+. The benchmark for a fund is decided when the fund is launched and the  benchmark is selected based on the investment objective of the fund. This benchmark, is a group of securities, usually a market index, whose performance is used as a standard or benchmark to measure investment performance of mutual funds, among other investments. Some typical benchmarks include the Nifty, Sensex, BSE200, BSE500, 10-Year Gsec.. Hence, you as an investor should expect the scheme to perform better than its benchmark over a given time frame.
+A benchmark helps bring in standardization in the comparison of performance of different funds, following the same benchmark or in evaluating how a fund has performed against its own benchmark.
+Credit Quality
+While
+investing in debt 
+... [truncated, 1302 more chars]
+
+--- CHUNK 4 ---
+Source URL   : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Doc Title    : Mutual Fund Jargons Explained: Key Terms Every Investor Should Know | SBI Mutual Fund
+Page No      : None
+Fetched Date : 2026-09-27
+Chunk Index  : 2
+Text (1863 chars):
+ suitable for their financial goal
+Whether they would like to take the level of risk associated with the scheme
+The time horizon for which investors must consider staying invested in the scheme if they plan to invest their money in the scheme
+Close-Ended Schemes
+A close-ended mutual fund is one in which Investors can buy only during the NFO (New Fund Offer) period.
+No investor can enter or exit a close-ended scheme until its maturity. However, investors can purchase / sell units on the stock exchanges
+Open-Ended Scheme
+An open-ended fund or scheme is one that is available for subscription and repurchase on a continuous basis.
+New Fund Offer (NFO)
+When an AMC wishes to launch a new fund in the market it does so by way of an
+NFO
+. NFO has a start date and end date. Investors are invited to i
+... [truncated, 1063 more chars]
+
+--- CHUNK 5 ---
+Source URL   : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Doc Title    : Mutual Fund Jargons Explained: Key Terms Every Investor Should Know | SBI Mutual Fund
+Page No      : None
+Fetched Date : 2026-09-27
+Chunk Index  : 3
+Text (1817 chars):
+, NAV of the scheme increases and vice-versa.
+IDCW Reinvestment Option
+Mutual fund schemes invest in a basket of securities. Some of these securities may pay dividends, interests or bonus. The profits made by the schemes in the form of dividends, interests or bonus can in turn be distributed amongst the investors at the discretion of the fund manager and is called as IDCW.
+In case of IDCW Reinvestment, the IDCW declared during the course of the investment is re-invested back into the scheme on investor’s behalf.
+IDCW Payout option
+Mutual fund schemes invest in a basket of securities. Some of these securities may pay dividends, interests or bonus. The profits made by the schemes in the form of dividends, interests or bonus can in turn be distributed amongst the investors at the discretion o
+... [truncated, 1017 more chars]
+
+--- CHUNK 6 ---
+Source URL   : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Doc Title    : Mutual Fund Jargons Explained: Key Terms Every Investor Should Know | SBI Mutual Fund
+Page No      : None
+Fetched Date : 2026-09-27
+Chunk Index  : 4
+Text (1894 chars):
+ NAV at the time of investment. For instance, if the NAV is Rs. 100 and the entry load is 1%, the investor will enter the fund at Rs 101.
+Indexation Benefit
+Indexation is an option available for investors to manage their inflation-adjusted returns. It is a provision in the Indian Income Tax Act, which allows investors to use inflation as a tool to reduce their tax liability from income generated through debt mutual funds and bonds. The indexation benefit applies if such investments are held for more than 12 months. The same does not apply to bank fixed deposits (FDs) and other small savings where the interest earned is taxed as per applicable marginal tax slabs of 10%, 20% and 30%.
+https://fundguru.sbimf.com/jargon-simplified#
+Systematic Investment Plan (SIP)
+SIP or
+systematic investment p
+... [truncated, 1094 more chars]
+
+--- CHUNK 7 ---
+Source URL   : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Doc Title    : Mutual Fund Jargons Explained: Key Terms Every Investor Should Know | SBI Mutual Fund
+Page No      : None
+Fetched Date : 2026-09-27
+Chunk Index  : 5
+Text (2116 chars):
+ their mutual funds on a pre-determined frequency. The amount withdrawn can be used to meet planned and unplanned expenses as well as to re-invest according to an individual's life stage / asset allocation plan. SWPs ensure one receives the amount in parts rather than the whole so that the spending is planned effectively and are also more tax efficient in case of withdrawals from debt oriented mutual funds in comparison to dividend options and bank FDs.
+Diversification
+Spreading the risk by constructing a portfolio that contains many different investments whose returns are relatively uncorrelated. Thus, risk levels can be reduced without a corresponding reduction in returns
+Asset Allocation
+Asset allocation is an investment strategy which aims to spread investor's portfolio across several 
+... [truncated, 1316 more chars]
+
+--- CHUNK 8 ---
+Source URL   : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Doc Title    : Mutual Fund Jargons Explained: Key Terms Every Investor Should Know | SBI Mutual Fund
+Page No      : None
+Fetched Date : 2026-09-27
+Chunk Index  : 6
+Text (1903 chars):
+ and selling expenses. The NAV of a mutual fund scheme is net of all liabilities including TER and, hence, a lower TER results in higher returns and vice versa. Investors must invest in a scheme which charges a lower TER compared to peers as higher expenses reduce returns of the fund.
+Sharpe Ratio
+The Sharpe Ratio, named after its founder, the Nobel Laureate William Sharpe, is a measure of risk-adjusted returns. It is calculated using standard deviation and excess return to determine reward per unit of risk.
+R-Squared
+This term is used to gauge the correlation between the mutual fund scheme and the benchmark index measured in the range of 0 to 100. R-squared of 100 means that the mutual fund moves in tandem with the benchmark index and R-squared of 0 means least correlation.
+Index Funds
+A 
+... [truncated, 1103 more chars]
+
+--- CHUNK 9 ---
+Source URL   : https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified
+Doc Title    : Mutual Fund Jargons Explained: Key Terms Every Investor Should Know | SBI Mutual Fund
+Page No      : None
+Fetched Date : 2026-09-27
+Chunk Index  : 7
+Text (223 chars):
+ Mutual Funds: Secure Your Childs Future with Smart Investing | SBI Mutual Fund
+Share This Post
+;
+Message Sent!
+Go Back
+Success
+Failure
+Message Sent!
+Go Back
+X
+NEW LAUNCH
+KNOW MORE
+SIF LAUNCH
+NEW LAUNCH
+KNOW MORE
+SIF LAUNCH
+

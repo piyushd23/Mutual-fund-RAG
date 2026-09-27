@@ -1,0 +1,62 @@
+Mutual Fund FAQs (Facts-Only Q&A)
+Milestone brief
+Build a small FAQ assistant that answers facts about mutual fund schemes—e.g., expense ratio, exit load, minimum SIP, lock-in (ELSS), riskometer, benchmark, and how to download statements—using only official public pages. Every answer must include one source link. No advice.
+Who this helps
+Retail users comparing schemes; support/content teams answering repetitive MF questions.
+What you must build
+Scope your corpus:
+Collect the public pages as mentioned below public pages from AMC/SEBI/AMFI (factsheets, KIM/SID, scheme FAQs, fee/charges pages, riskometer/benchmark notes, statement/tax-doc guides).
+AMC scheme documents (SID/KIM/factsheet)
+[https://www.sbimf.com/docs/default-source/lists/kim---sbi-blue-chip-fund.pdf?sfvrsn=95255f2a_0](https://www.sbimf.com/docs/default-source/lists/kim---sbi-blue-chip-fund.pdf?sfvrsn=95255f2a_0) — KIM, SBI Blue Chip Fund
+[https://www.sbimf.com/docs/default-source/lists/sid---sbi-bluechip-fund.pdf?sfvrsn=bbe1a4ba_0](https://www.sbimf.com/docs/default-source/lists/sid---sbi-bluechip-fund.pdf?sfvrsn=bbe1a4ba_0) — SID, SBI Bluechip Fund
+[https://www.sbimf.com/offer-document-sid-kim](https://www.sbimf.com/offer-document-sid-kim) — SID/KIM hub (all schemes, scheme-differentiation tables)
+[https://www.sbimf.com/sid-kim-archive](https://www.sbimf.com/sid-kim-archive) — SID/KIM archive
+[https://www.sbimf.com/factsheets](https://www.sbimf.com/factsheets) — Monthly factsheets hub (all schemes)
+[https://www.sbimf.com/portfolios](https://www.sbimf.com/portfolios) — Scheme portfolio disclosures
+[https://www.sbimf.com/docs/default-source/documents/statement-of-additional-information.pdf](https://www.sbimf.com/docs/default-source/documents/statement-of-additional-information.pdf) — Statement of Additional Information (SAI)
+[https://www.sbimf.com/docs/default-source/pdf/equity-schemes---scheme-differentiation.pdf](https://www.sbimf.com/docs/default-source/pdf/equity-schemes---scheme-differentiation.pdf) — Equity scheme differentiation table (covers Bluechip/Flexicap/ELSS/Small Cap)
+Fees / charges / TER
+9.[https://www.sbimf.com/total-expense-ratio](https://www.sbimf.com/total-expense-ratio) — Total Expense Ratio of all schemes
+10.[https://www.sbimf.com/forms](https://www.sbimf.com/forms) — Forms & downloads hub
+Riskometer / benchmark
+11.[https://www.sbimf.com/docs/default-source/pdf/index-funds---scheme-differentiation.pdf](https://www.sbimf.com/docs/default-source/pdf/index-funds---scheme-differentiation.pdf) — benchmark differentiation reference
+12.[https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html](https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html) — SEBI Riskometer circular (2020) landing page
+13.[https://www.sebi.gov.in/sebi_data/attachdocs/oct-2020/1602580413614.pdf](https://www.sebi.gov.in/sebi_data/attachdocs/oct-2020/1602580413614.pdf) — Full SEBI Riskometer circular PDF (SEBI/HO/IMD/DF3/CIR/P/2020/197)
+14.[https://www.sebi.gov.in/sebi_data/attachdocs/1430388883147.pdf](https://www.sebi.gov.in/sebi_data/attachdocs/1430388883147.pdf) — Earlier SEBI Product Labeling circular (2015)
+15.[https://compfie.aparajitha.com/wp-content/uploads/2021/09/02092021_FCC_03.pdf](https://compfie.aparajitha.com/wp-content/uploads/2021/09/02092021_FCC_03.pdf) — SEBI circular on riskometer/benchmark/portfolio disclosure (2021)
+Scheme FAQs / investor education
+16.[https://www.sbimf.com/faq](https://www.sbimf.com/faq) — SBI MF FAQs
+17.[https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified](https://www.sbimf.com/learn-about-mutual-funds/mutual-funds-jargons-simplified) — Jargon/terms glossary
+18.[https://www.sbimf.com/investment-options](https://www.sbimf.com/investment-options) — Investment options explainer (Growth/IDCW, SIP/STP/SWP)
+Statement / tax-document guides
+19.[https://www.sbimf.com/kyc-procedure](https://www.sbimf.com/kyc-procedure) — KYC procedure
+20.[https://online.sbimf.com/statement](https://online.sbimf.com/statement) — Statement of Account portal
+21.[https://www.sbimf.com/idcw-history](https://www.sbimf.com/idcw-history) — IDCW (dividend) history
+22.[https://www.sbimf.com/grievance-redressal](https://www.sbimf.com/grievance-redressal) — Grievance redressal procedure
+SEBI/AMFI regulatory & investor-protection layer
+23.[https://investor.sebi.gov.in/pdf/investor-charter/mf_amc_amfi.pdf](https://investor.sebi.gov.in/pdf/investor-charter/mf_amc_amfi.pdf) — SEBI Investor Charter for Mutual Funds (rights, timelines, grievance mechanism)
+24.[https://www.amfiindia.com/](https://www.amfiindia.com/) — AMFI homepage (distributor/investor resources)
+25.[https://www.amfiindia.com/investor](https://www.amfiindia.com/investor) — AMFI investor resources (SIP, redemption, minors, nomination/claims)
+FAQ assistant (working prototype):
+Answers factual queries only (e.g., “Expense ratio of ?”, “ELSS lock-in?”, “Minimum SIP?”, “Exit load?”, “Riskometer/benchmark?”, “How to download capital-gains statement?”).
+Shows one clear citation link in every answer.
+Refuses opinionated/portfolio questions (e.g., “Should I buy/sell?”) with a polite, facts-only message and a relevant educational link.
+Tiny UI: welcome line + 3 example questions and a note: “Facts-only. No investment advice.”
+Key constraints
+**Public sources only.** No screenshots of the app back-end; no third-party blogs as sources.
+**No PII.** Do not accept/store PAN, Aadhaar, account numbers, OTPs, emails, or phone numbers.
+**No performance claims.** Don’t compute/compare returns; link to the official factsheet if asked.
+**Clarity & transparency.** Keep answers ≤3 sentences; add “Last updated from sources: ”.
+What to submit (deliverables)
+Working prototype link (app/notebook) or a ≤3-min demo video if hosting isn’t possible.
+Source list (CSV/MD) of the 5 URLs you used.
+README with setup steps, scope (AMC + schemes), and known limits.
+Sample Q&A file (5–10 queries with the assistant’s answers + links).
+Disclaimer snippet used in your UI (facts-only, no advice).
+End output - RAG Chatbot
+Each stage is different and when we create architecture we want to follow all the stages on RAG ( Data ingestion + Data retrieval)
+Loading → Chunking → Embedding → store Vector Data
+Embedding Models – sentence-transformers/all-MiniLM-L6-v2
+Chunking Strategy → Ask cursor to decide the chunking strategy based on the data
+VectorDB - ChromaDB
+We are building a RAG ChatBot

@@ -108,11 +108,11 @@ def load_source(url: str) -> list[dict]:
     PDF URLs end with .pdf; everything else is treated as HTML.
     """
     # Intercept specific showcase URLs to read from local mock files
-    if url == "/static/elss.html":
+    if url == "https://www.sbimf.com/?fund=elss-tax-saver":
         return _mock_local_html("ui/static/elss.html", url, "SBI ELSS Tax Saver Fund")
-    elif url == "/static/smallcap.html":
+    elif url == "https://www.sbimf.com/?fund=small-cap":
         return _mock_local_html("ui/static/smallcap.html", url, "SBI Small Cap Fund")
-    elif url == "/static/capital_gains.html":
+    elif url == "https://www.sbimf.com/?page=capital-gains":
         return _mock_local_html("ui/static/capital_gains.html", url, "Capital Gains and Tax Statements")
 
     # Strip query strings for type detection

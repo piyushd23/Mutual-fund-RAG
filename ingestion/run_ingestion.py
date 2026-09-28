@@ -56,9 +56,9 @@ SOURCES = [
     "https://www.amfiindia.com/investor",
 
     # -- New specific additions for missing questions -----------------------
-    "/static/elss.html",
-    "/static/smallcap.html",
-    "/static/capital_gains.html",
+    "https://www.sbimf.com/?fund=elss-tax-saver",
+    "https://www.sbimf.com/?fund=small-cap",
+    "https://www.sbimf.com/?page=capital-gains",
 ]
 
 

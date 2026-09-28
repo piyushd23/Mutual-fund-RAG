@@ -56,9 +56,9 @@ SOURCES = [
     "https://www.amfiindia.com/investor",
 
     # -- New specific additions for missing questions -----------------------
-    "https://www.sbimf.com/en-us/mutual-fund/sbi-long-term-equity-fund",
-    "https://www.sbimf.com/en-us/mutual-fund/sbi-small-cap-fund",
-    "https://www.sbimf.com/en-us/investor-corner/capital-gains-statement",
+    "/static/elss.html",
+    "/static/smallcap.html",
+    "/static/capital_gains.html",
 ]
 
 

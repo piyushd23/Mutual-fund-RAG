@@ -92,7 +92,10 @@ document.addEventListener('DOMContentLoaded', () => {
     row.innerHTML = `
       <div class="message-avatar"><i class="fa-solid fa-chart-pie"></i></div>
       <div class="message-body">
-        <div class="bubble"><p class="typing">Thinking...</p></div>
+        <div class="bubble">
+          <p class="typing">Thinking...</p>
+          <p style="font-size: 0.85em; opacity: 0.7; margin-top: 4px;">Please be patient while relevant information is being searched.</p>
+        </div>
       </div>
     `;
     messagesStream.appendChild(row);

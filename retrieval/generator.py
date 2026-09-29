@@ -85,7 +85,10 @@ def _answer_groq(system_prompt: str, user_message: str) -> str:
             {"role": "user",   "content": user_message},
         ],
     )
-    return response.choices[0].message.content.strip()
+    content = response.choices[0].message.content
+    if not content or not content.strip():
+        return "I'm sorry, I was unable to generate an answer for that query. Please try rephrasing it."
+    return content.strip()
 
 
 # ---------------------------------------------------------------------------

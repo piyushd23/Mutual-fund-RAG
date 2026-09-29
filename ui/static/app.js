@@ -56,6 +56,8 @@ document.addEventListener('DOMContentLoaded', () => {
         appendAssistantMessage('An error occurred. Please try again later.');
       } else if (!data.allowed) {
         appendAssistantMessage(data.message || 'I cannot answer this query.');
+      } else if (!data.answer || data.answer.trim() === '') {
+        appendAssistantMessage('The assistant returned an empty response. Please try again.');
       } else {
         appendAssistantMessage(data.answer, data.source_url);
       }

@@ -130,5 +130,30 @@ Lightweight healthcheck endpoint for load balancers and container orchestrators.
 
 ---
 
+## 📚 Source List (Knowledge Base)
+
+The persistent ChromaDB vector database is populated from the following official sources:
+1. **Scheme Information Documents (SIDs):** Including SBI Blue Chip Fund, SBI ELSS Tax Saver Fund.
+2. **Key Information Memorandums (KIMs):** Extracted financial limits, expense ratios, and lock-in periods.
+3. **SBI Mutual Fund Website:** Official FAQ portals, Grievance Redressal, KYC Procedures, Investment Options, and Capital Gains Statement guides.
+4. **Regulatory Bodies:** AMFI Investor Education portal and SEBI compliance guidelines.
+
+---
+
+## 💬 Sample Q&A
+
+**User:** What is the lock-in period for ELSS mutual funds?
+**Assistant:** ELSS mutual funds, including the SBI ELSS Tax Saver Fund, have a mandatory statutory lock‑in period of three years from the date of allotment. During this period, units cannot be redeemed, switched, or withdrawn. *(Source: https://www.sbimf.com/?fund=elss-tax-saver)*
+
+**User:** Can you suggest the best mutual fund for me to invest 1 lakh rupees?
+**Assistant:** I can only answer factual questions about mutual fund schemes. For personalised investment guidance, please consult a SEBI-registered investment advisor. *(Blocked by Guardrail)*
+
+**User:** How do I download my Capital Gains Statement?
+**Assistant:** You can download your Capital Gains statement by logging into your dashboard on the official sbimf.com portal and navigating to the 'Statements' section. Alternatively, you can use MFCentral or request it via email from CAMS / KFintech. *(Source: https://www.sbimf.com/?page=capital-gains)*
+
+---
+
 ## ⚠️ Regulatory Compliance & Disclaimer
-Mutual Fund investments are subject to market risks. Read all scheme related documents carefully. This application provides factual answers extracted from official SBI Mutual Fund, SEBI, and AMFI publications and does not offer financial or investment advice.
+**Mutual Fund investments are subject to market risks. Read all scheme related documents carefully.** 
+
+This application is an experimental Retrieval-Augmented Generation (RAG) assistant. It provides factual answers extracted dynamically from official SBI Mutual Fund, SEBI, and AMFI publications. **It does not offer financial, tax, or investment advice.** The developer assumes no liability for investment decisions made based on this tool. Always consult a SEBI-registered investment advisor for personal financial planning.
